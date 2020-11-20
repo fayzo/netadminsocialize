@@ -14,12 +14,12 @@
   <!-- AdminLTE Skins. Choose a skin from the css/skins
        folder instead of downloading all of them to reduce the load. -->
   <!-- <link rel="stylesheet" href="skin-blue.css"> -->
-  <link rel="stylesheet" href="assets/plugin/skins/_all-skins.css">
+  <!-- <link rel="stylesheet" href="assets/plugin/skins/_all-skins.css">
   <link rel="stylesheet" href="assets/dist/css/main.css">
   <link rel="stylesheet" href="assets/dist/css/profile.css">
   <link rel="stylesheet" href="assets/dist/css/profileEdit.css">
   <link rel="stylesheet" href="assets/dist/css/follow.css">
-  <link rel="stylesheet" href="assets/dist/css/dashboard.css">
+  <link rel="stylesheet" href="assets/dist/css/dashboard.css"> -->
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
