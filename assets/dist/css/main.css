@@ -1,0 +1,19 @@
+.skin-blue .main-active {
+    background-color: #3c8dbc;
+    color: #ffffff;
+}
+.skin-blue-light .main-active {
+    background-color: #3c8dbc;
+    color: #ffffff;
+}
+.skin-blue  .borders-tops {
+    border-top: 3px solid#3c8dbc;
+}
+.skin-blue-light .borders-tops {
+    border-top: 3px solid#3c8dbc;
+}
+
+.border-bottom-0,
+.message-color {
+    background-color: #fff !important;
+}
